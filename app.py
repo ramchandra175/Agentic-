@@ -8,3 +8,4 @@ print("Get started with Agentic today and unleash the power of intelligent agent
 print("Thank you for using Agentic!")
 print("Goodbye!")
 print("This is the end of the Agentic app.")
+print("Have a great day!")

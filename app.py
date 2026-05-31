@@ -5,3 +5,4 @@ print("With Agentic, you can create agents that can learn, adapt, and interact w
 print("Agentic is designed to be easy to use and flexible, allowing you to create agents for a wide range of applications.")
 print("Whether you're building a chatbot, a recommendation system, or a game AI, Agentic has the tools you need to succeed.")
 print("Get started with Agentic today and unleash the power of intelligent agents!")
+print("Thank you for using Agentic!")

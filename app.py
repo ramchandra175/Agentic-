@@ -7,5 +7,7 @@ print("Whether you're building a chatbot, a recommendation system, or a game AI,
 print("Get started with Agentic today and unleash the power of intelligent agents!")
 print("Thank you for using Agentic!")
 print("Goodbye!")
+print("Goodbye!")
 print("This is the end of the Agentic app.")
-print("Have a great day!")
+
+
